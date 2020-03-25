@@ -1,6 +1,6 @@
 ---
 title: Levain naturel
-date: "2020-03-23"
+date: "2020-03-25"
 description: "Au commencement était le levain"
 tags:
   - pain
@@ -10,9 +10,10 @@ tags:
 Avant de faire du pain, il faut faire du levain.
 
 C'est super simple. 
-Il faut :
-- De l'eau (filtrée ou de source, le levain n'aime pas la javel ni les eaux chargées en minéraux)
-- De la farine type 80 (si possible, sinon T110 ou blanche T65 mais je n'ai jamais essayé en dessous de 80.)
+
+Vous n'avez besoin que, 
+- D'eau (filtrée ou de source, le levain n'aime pas la javel ni les eaux chargées en minéraux)
+- De farine type 80 (si possible, sinon T110 ou blanche T65 mais je n'ai jamais essayé en dessous de 80.)
 - 3 jours de patience.
 
 Si vous utilisez de la farine T80 ou plus, T110, T170, etc. procurez-vous de la farine bio.
@@ -20,7 +21,7 @@ Plus la farine est complète, plus il reste de résidus. Une farine T170 pas bio
 
 Évitez tout ce qui est en métal, récipient, ustansiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ces 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de léssive, savon, etc.
 
-Dans 3 jours votre levain devrait ressembler à une pâte un peu liquide, plus ou moins blanche crème avec des nuances de gris et des bulles.
+Dans 3 jours votre levain devrait ressembler à une pâte un peu liquide, plus ou moins blanche crème avec des nuances de gris et des bulles de tailles variables.
 
 - Jours 1 : Mélangez 60 gr de farine avec 60 gr d'eau dans un récipient pouvant contenir 1/2 litre. Laissez reposez couvert d'un torchon (ne pas fermer).
 - Jours 2 : rallongez de 100gr de farine et d'eau, couvrez au torchon.
