@@ -9,8 +9,7 @@
   {% endif %}
   <p class="post-meta">
     {% if date %}
-      Posted by {{ authorName }}
-      on <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
+        <time datetime="{{ date }}" class="dt-published">{{ date }}</time>
     {% endif %} (about a {{ helpers.getReadingTime(content) }} minute read).
   </p>
 </div>

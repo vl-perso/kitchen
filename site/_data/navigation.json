@@ -1,27 +1,22 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "Entrée",
       "url": "/",
       "external": false
     },
     {
-      "text": "Posts",
+      "text": "Cuisine",
       "url": "/posts",
       "external": false
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/MikeRiethmuller",
+      "url": "https://twitter.com/webetcaetera",
       "external": true
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/madebymike/supermaya",
-      "external": true
-    },
-    {
-      "text": "Feed",
+      "text": "RSS",
       "url": "/feed.xml",
       "external": true
     }
