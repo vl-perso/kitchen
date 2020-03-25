@@ -26,11 +26,10 @@ Dans 3 jours votre levain devrait ressembler à une pâte un peu liquide, plus o
 
 <figure>
         <img alt="" class="img-post" src="/levain.jpg">
-        <figcaption> Levain naturel à maturité.
-          </figcaption>
+        <figcaption> Levain naturel à maturité.</figcaption>
     </figure>
 
-- Jours 1 : Mélangez 60 gr de farine avec 60 gr d'eau dans un récipient pouvant contenir 1/2 litre. Laissez reposez couvert d'un torchon (ne pas fermer).
+- Jours 1 : Mélangez 60 gr de farine avec 60 gr d'eau dans un récipient pouvant contenir 1/2 litre. Laissez reposer couvert d'un torchon (ne pas fermer).
 - Jours 2 : rallongez de 100gr de farine et d'eau, couvrez au torchon.
 - Jours 3 : rallongez de 100 gr de nouveau, couvrez au torchon.
 
