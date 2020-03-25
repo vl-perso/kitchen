@@ -18,7 +18,7 @@ C'est super simple, ça va bien se passer.
 et c'est tout.
 
 Si vous utilisez de la farine T80 ou plus, T110, T170, etc. procurez-vous de la farine bio.
-Plus la farine est complète, plus il reste de résidus. Une farine T170 pas bio ce n'est pas une bonne idée, préférez la blanche dans ce cas même si le taux de gluten moindre n'est pas l'idéal.
+Plus la farine est complète, plus il reste de résidus. Une farine T170 pas bio ce n'est pas une bonne idée, préférez la blanche dans ce cas.
 
 Évitez tout ce qui est en métal, récipient, ustensiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ses 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de lessive, savon, etc.
 
