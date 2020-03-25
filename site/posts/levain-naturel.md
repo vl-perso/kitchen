@@ -13,14 +13,14 @@ C'est super simple, ça va bien se passer.
 
 - De l'eau (filtrée, de source ou peu calcaire, le levain n'aime pas la javel ni les eaux chargées en minéraux) ;
 - de la farine type 80 (si possible, sinon T110 ou blanche T65 mais je n'ai jamais essayé en dessous de 80) ;
-- 3 jours de patience 
+- 3 jours de patience… 
 
 et c'est tout.
 
 Si vous utilisez de la farine T80 ou plus, T110, T170, etc. procurez-vous de la farine bio.
 Plus la farine est complète, plus il reste de résidus. Une farine T170 pas bio ce n'est pas une bonne idée, préférez la blanche dans ce cas même si le taux de gluten moindre n'est pas l'idéal.
 
-Évitez tout ce qui est en métal, récipient, ustensiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ses 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de léssive, savon, etc.
+Évitez tout ce qui est en métal, récipient, ustensiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ses 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de lessive, savon, etc.
 
 Dans 3 jours votre levain devrait ressembler à une pâte un peu liquide, plus ou moins blanche crème avec des nuances de gris et des bulles de tailles variables.
 
