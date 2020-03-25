@@ -1,8 +1,8 @@
 ---
 layout: "layouts/home.njk"
 title: Bienvenue en cuisine.
-postsHeading: Dernières recettes
-allPostsText: Voir toutes les recettes
+postsHeading: Dernières publications
+allPostsText: Voir toutes les publications
 socialImage: ""
 ---
 

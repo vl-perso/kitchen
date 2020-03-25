@@ -7,19 +7,20 @@ tags:
   - DIY
 ---
 
-Avant de faire du pain, il faut faire du levain.
+Avant de faire du pain, il faut préparer du levain.
 
-C'est super simple. 
+C'est super simple, ça va bien se passer. 
 
-Vous n'avez besoin que, 
-- D'eau (filtrée ou de source, le levain n'aime pas la javel ni les eaux chargées en minéraux)
-- De farine type 80 (si possible, sinon T110 ou blanche T65 mais je n'ai jamais essayé en dessous de 80.)
-- 3 jours de patience.
+- De l'eau (filtrée, de source ou peu calcaire, le levain n'aime pas la javel ni les eaux chargées en minéraux) ;
+- de la farine type 80 (si possible, sinon T110 ou blanche T65 mais je n'ai jamais essayé en dessous de 80) ;
+- 3 jours de patience 
+
+et c'est tout.
 
 Si vous utilisez de la farine T80 ou plus, T110, T170, etc. procurez-vous de la farine bio.
 Plus la farine est complète, plus il reste de résidus. Une farine T170 pas bio ce n'est pas une bonne idée, préférez la blanche dans ce cas même si le taux de gluten moindre n'est pas l'idéal.
 
-Évitez tout ce qui est en métal, récipient, ustansiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ces 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de léssive, savon, etc.
+Évitez tout ce qui est en métal, récipient, ustensiles, privilégiez le bois et le verre ou le plastique éventuellement (un bon vieux tuppeware des familles et ses 20 ans de bons et loyaux services comme le mien, c'est moins écologique mais ça fait l'affaire). Le récipient doit être propre et sans trace de léssive, savon, etc.
 
 Dans 3 jours votre levain devrait ressembler à une pâte un peu liquide, plus ou moins blanche crème avec des nuances de gris et des bulles de tailles variables.
 
@@ -38,7 +39,9 @@ Pour le levain s'il fait chaud chez vous et que vous le voyez s'emballer, mettez
 Si ça tranche (l'eau et la farine se sépare et la couleur vire un peu au gris) même punition, mélanger vigoureusement (avec une cuillère en bois, toujours) et un petit coup de frais.
 
 Rendez-vous dans 3 jours pour la confection du pain.
-Si vous alimentez votre le levain le matin, le pain devrait pouvoir se faire le soir du 3ème jour. Sinon il vous faudra patienter 1 journée supplémentaire.
+Si vous alimentez votre levain le matin, le pain devrait pouvoir se faire le soir du 3ème jour. 
+
+Sinon il vous faudra patienter 1 journée supplémentaire.
 
 
 
