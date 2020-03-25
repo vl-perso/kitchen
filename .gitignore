@@ -4,6 +4,4 @@ npm-debug.*
 node_modules
 dist 
 posts_origine
-
-
-
+config.codekit3
