@@ -1,5 +1,5 @@
 --- 
-title: Posts 
+title: Cuisine
 pagination: 
   data: collections.posts
   size: 5
@@ -9,13 +9,13 @@ pagination:
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
-{% set introHeading %}Posts{% endset %}
+{% set introHeading %}Cuisine{% endset %}
 
 {# Post list content #}
 {% set postListItems = posts %}
 
 {% if postListItems.length < collections.posts.length %}
-  {% set paginationNextText = 'Next' %}
+  {% set paginationNextText = 'suivant' %}
   {% set paginationNextUrl = pagination.nextPageHref %}
   {% set paginationPrevUrl = pagination.previousPageHref %}
 {% endif %}

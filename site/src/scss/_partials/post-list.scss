@@ -1,5 +1,5 @@
 .l-post-list > * {
-  width: 60ch;
+  max-width: 60ch;
 }
 
 .l-post-list > * + * {
@@ -31,6 +31,7 @@
 .read-more {
   text-decoration: underline;
   font-size: $SCALE--1;
+  display: block;
 }
 .read-more:hover,
 .read-more:focus {
