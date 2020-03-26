@@ -14,10 +14,10 @@ module.exports = {
   },
 
   keystone: {
-    comments: false,
-    bookmarks: false,
+    comments: true,
+    bookmarks: true,
     claps: true,
-    login: false
+    login: true
   },
   // Critical CSS results in much slower build times and uses a lot of system resources
   // See `site/transforms/critical-css-transform.js` for more details
