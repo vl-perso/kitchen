@@ -2,6 +2,8 @@
 title: Levain naturel
 date: "2020-03-25"
 description: "Au commencement était le levain."
+prepa: 15 mn
+attente: 3 jours
 tags:
   - pain
   - DIY

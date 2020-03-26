@@ -10,7 +10,17 @@
   <p class="post-meta">
     {% if date %}
         <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter}}</time>
-    {% endif %} (about a {{ helpers.getReadingTime(content) }} minute read).
+    {% endif %} (environ {{ helpers.getReadingTime(content) }} minutes de lecture).
+  </p>
+  <p class="post-meta">
+    {% if prepa %}
+        Temps de prépatation : {{ prepa }}
+    {% endif %} 
+  </p>
+  <p class="post-meta">
+    {% if attente %}
+        Temps d'attente : {{ attente }}
+    {% endif %} 
   </p>
 </div>
 {% endset %}
