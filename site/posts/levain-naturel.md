@@ -1,7 +1,7 @@
 ---
 title: Levain naturel
 date: "2020-03-25"
-description: "Au commencement était le levain"
+description: "Au commencement était le levain."
 tags:
   - pain
   - DIY

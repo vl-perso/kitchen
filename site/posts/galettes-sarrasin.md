@@ -1,7 +1,7 @@
 ---
 title: Galettes de blé noir
 date: "2020-03-26"
-description: "Qu'on l'appelle galette de blé noir ou crèpe de sarrasin, c'est un incontournable de la cuisine bretonne"
+description: "Qu'on l'appelle galette de blé noir ou crèpe de sarrasin, c'est un incontournable de la cuisine bretonne."
 tags:
   - sarrasin
   - plat unique
