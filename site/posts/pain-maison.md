@@ -3,7 +3,7 @@ title: Pain maison
 date: "2020-04-08"
 description: "Etape 1 : La poussée lente."
 prepa: 15 mn
-pause: 1 nuit et 4 heures
+pause: 1 nuit
 tags:
   - pain
   - farine
