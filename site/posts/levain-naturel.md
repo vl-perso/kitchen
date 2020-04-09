@@ -1,6 +1,6 @@
 ---
 title: Levain naturel
-date: "2020-03-25"
+date: "2020-04-05"
 description: "Au commencement était le levain."
 prepa: 15 mn
 pause: 3 jours
