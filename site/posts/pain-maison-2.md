@@ -11,7 +11,7 @@ tags:
 Le matin du deuxième jour, votre pâton a normalement changé d’aspect et vous devriez avoir une pâte gonflée et très molle qui a plus ou moins doublée de volume.
 
 <figure>
-<img alt="" class="img-post » src="/paton_ok.jpeg">
+<img alt="" class="img-post" src="/paton_ok.jpeg">
 <figcaption> Le levain a bien travaillé pendant la nuit.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Farinez un moule à cake ou autre et versez votre pâton en forme de boudin deda
 
 Il doit occuper la moitié du moule à peu près. N’hésitez pas à secouer le moule vigoureusement de droite à gauche (ou l’inverse) pour le tasser un peu sur les côtés.
 <figure>
-<img alt="" class="img-post » src="/moule.jpeg">
+<img alt="" class="img-post" src="/moule.jpeg">
 <figcaption> Le pain dans son moule.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Le pain doit doubler mais ne pas s’échapper du moule.
 
 Je vous laisse donc adapter à l’œil, il faut que ça remplisse le moule comme sur la photo suivante.
 <figure>
-<img alt="" class="img-post » src="/pret.jpeg">
+<img alt="" class="img-post" src="/pret.jpeg">
 <figcaption> Prêt à être enfourné.</figcaption>
 </figure>
 
@@ -76,14 +76,14 @@ Quand vous le sortez, si vous le tapotez, il doit sonner creux :)
 Et voilà le travail !
 
 <figure>
-<img alt="" class="img-post » src="/pain_cuit.jpeg">
+<img alt="" class="img-post" src="/pain_cuit.jpeg">
 <figcaption> Pain tout juste sorti du four.</figcaption>
 </figure>
 
 Laissez refroidir, dégustez…
 
 <figure>
-<img alt="" class="img-post » src="/pain_coupe.jpeg">
+<img alt="" class="img-post" src="/pain_coupe.jpeg">
 <figcaption> Une mie dense pour faire des tartines.</figcaption>
 </figure>
 
