@@ -1,7 +1,7 @@
 ---
 title: Pain maison 
 date: "2020-04-08"
-description: "Etape 1 : La poussée lente."
+description: "Jour 1 : La poussée lente."
 prepa: 15 mn
 pause: 1 nuit
 tags:
@@ -31,7 +31,7 @@ Après mélange vous obtenez un pâton assez mou, mais que l'on peut tout de mê
     </figure>
 
 
-Si ça ne fait pas braiment une boule, ce n'est pas grave, l'important c'est que ce soit bien mélangé.
+Si ça ne fait pas vraiment une boule, ce n'est pas grave, l'important c'est que ce soit bien mélangé.
 
 Laissez reposer toute la nuit en recouvrant avec un linge épais, à température ambiante.
 

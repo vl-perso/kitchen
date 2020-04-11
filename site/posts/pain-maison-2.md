@@ -18,7 +18,7 @@ Le matin du deuxième jour, votre pâton a normalement changé d’aspect et vou
 Dans ce même récipient ou dans un autre s’il est trop petit, versez
 
 - 200 gr d'eau tiède
-- 13 à 15 gr de sel (pour le premier pain, optez pour 13 gr vous ajusterez pour les suivant en fonction de votre gout),
+- 13 à 15 gr de sel (pour le premier pain, optez pour 13 gr vous ajusterez pour les suivants en fonction de votre goût),
 
  
 Mélangez grossièrement avec une cuillère en bois.
