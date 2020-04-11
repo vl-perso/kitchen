@@ -16,12 +16,15 @@ Le matin du deuxième jour, votre pâton a normalement changé d’aspect et vou
 </figure>
 
 Dans ce même récipient ou dans un autre s’il est trop petit, versez
-— 200 d’eau tiède,
-— 13 à 15 gr de sel (pour le premier pain, optez pour 13 gr vous ajusterez pour les suivant en fonction de votre gout),
 
+- 200 gr d'eau tiède
+- 13 à 15 gr de sel (pour le premier pain, optez pour 13 gr vous ajusterez pour les suivant en fonction de votre gout),
+
+ 
 Mélangez grossièrement avec une cuillère en bois.
 Rajoutez ensuite
-— 350 gr de farine T110, 400 gr si c’est de la T65.
+- 350 gr de farine T110, 400 gr si c’est de la T65.
+
 Mélangez, toujours à la cuillère.
 Vous devriez obtenir une pâte un peu plus ferme que celle de la veille.
 Si ce n’est pas le cas, rajoutez un peu de farine, au compte goutte, mieux vaut moins que plus.
@@ -44,9 +47,9 @@ Il doit occuper la moitié du moule à peu près. N’hésitez pas à secouer le
 Laisser reposer recouvert d’un linge pendant 4 à 5 heures.
 Le pain doit doubler mais ne pas s’échapper du moule.
 
-— S’il pleut, ça ne monte pas bien,
-— S’il fait froid, ça monte lentement,
-— S’il fait chaud, ça monte vite,
+- S’il pleut, ça ne monte pas bien,
+- S’il fait froid, ça monte lentement,
+- S’il fait chaud, ça monte vite,
 
 Je vous laisse donc adapter à l’œil, il faut que ça remplisse le moule comme sur la photo suivante.
 <figure>
@@ -58,7 +61,7 @@ Faite chauffer votre four à 250°, pas moins, avec la grille à mi-hauteur.
 C’est vraiment indispensable que le four soit très chaud.
 Installer la lèche frite (plaque creuse pour recueillir les graisses) vide sous la grille.
 
-Dans un premier temps ne faites pas de grignes (entailles sur le dessus du pain), ça va se faire tout seul et vous verrez ensuite que vous aurez plus de pratique.)
+Dans un premier temps ne faites pas de grignes (entailles sur le dessus du pain), ça va se faire tout seul et vous verrez ensuite quand vous aurez plus de pratique.)
 
 Enfournez votre pain en laissant la porte ouverte le moins possible.
 2 minutes après, balancez dans la lèche frite un grand verre d’eau froide du robinet, ça va produire beaucoup de vapeur qui va vous donner une jolie croute, bien croustillante.
