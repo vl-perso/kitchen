@@ -1,7 +1,7 @@
 ---
 title: Pain maison 
 date: "2020-04-09"
-description: "Etape 2 : ça va croustiller sans pétrir…"
+description: "Jour 2 : ça va croustiller sans pétrir…"
 prepa: 15 mn 
 pause: 4 à 5 heures
 tags:
@@ -91,3 +91,4 @@ Laissez refroidir, dégustez…
 </figure>
 
 Bon appétit.
+

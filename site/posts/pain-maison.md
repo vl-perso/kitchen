@@ -37,5 +37,3 @@ Laissez reposer toute la nuit en recouvrant avec un linge épais, à températur
 
 Rendez-vous demain matin !
 
-
-
