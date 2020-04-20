@@ -1,5 +1,5 @@
 ---
-title: Pain maison 
+title: Pain maison 2
 date: "2020-04-09"
 description: "Jour 2 : ça va croustiller sans pétrir…"
 prepa: 15 mn 
